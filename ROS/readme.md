@@ -12,7 +12,7 @@ Follow the Slam subsection under the simulation in the [TurtleBot3 documentation
 #### 2. ROS 2 Navigation Stack
 For path planning and control, we will employ the **ROS 2 Navigation Stack (Nav2)**. It enables the robot to autonomously reach a specified goal while avoiding obstacles and reacting to dynamic changes in the environment. The stack integrates motion planning, control, and recovery mechanisms into a modular framework.
 
-Follow the naviagtion subsection under the simulation in the [TurtleBot3 documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
+Follow the naviagtion subsection under the simulation in the [TurtleBot3 documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/). Also you are free to use the tutorials on youtube.
 
 
 The entire implementation will be containerized using Docker. The container will include:
